@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To view a live version click [>here<](https://lytvyntsiv.github.io/react_marvel-portal/).
 
 ## Available Scripts
 
