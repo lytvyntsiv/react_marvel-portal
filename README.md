@@ -1,4 +1,4 @@
-To view a live version click [>here<](https://lytvyntsiv.github.io/react_todo-app/).
+To view a live version click [>here<](https://lytvyntsiv.github.io/react_marvel-portal/).
 
 ## Available Scripts
 
